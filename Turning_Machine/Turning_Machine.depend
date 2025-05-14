@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1747258057 source:c:\fci\matrial\theory of computation\automata_practical_exam_4486\turning_machine\main.cpp
+	<iostream>
+	<cstring>
+
+1747242614 source:c:\fci\matrial\theory of computation\automata_practical_exam_4486\turning_machine\test.cpp
+	<iostream>
+	<cstring>
+

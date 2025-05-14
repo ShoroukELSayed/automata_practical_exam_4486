@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1747252965 source:c:\fci\matrial\theory of computation\automata_practical_exam_4486\cfg_to_pda\main.cpp
+	<iostream>
+	<cstring>
+	"test.h"
+
+1747253194 source:c:\fci\matrial\theory of computation\automata_practical_exam_4486\cfg_to_pda\test.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"test.h"
+
+1747245006 c:\fci\matrial\theory of computation\automata_practical_exam_4486\cfg_to_pda\test.h
+	<string>
+

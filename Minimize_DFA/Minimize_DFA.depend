@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1747248945 source:c:\fci\matrial\theory of computation\automata_practical_exam_4486\minimize_dfa\main.cpp
+	<iostream>
+	<string>
+	"dfa.h"
+
+1747250934 source:c:\fci\matrial\theory of computation\automata_practical_exam_4486\minimize_dfa\test.cpp
+	<iostream>
+	<string>
+	<cassert>
+	"dfa.h"
+
+1747250987 c:\fci\matrial\theory of computation\automata_practical_exam_4486\minimize_dfa\dfa.h
+	<string>
+
